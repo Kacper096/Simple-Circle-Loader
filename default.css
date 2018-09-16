@@ -19,11 +19,11 @@ body
 
 .loader {
     position: relative;
-    width: calc(100% - 2vmin);
-    height: calc(100% - 2vmin);
-    border: 1vmin solid #262626;
+    width: calc(100% - 2.6vmin);
+    height: calc(100% - 2.6vmin);
+    border: 1.3vmin solid #262626;
     border-radius:50%;
-    border-top:1vmin solid #00EEAA;
+    border-top:1.3vmin solid #00EEAA;
     animation: rotate 6s linear infinite;
     filter:drop-shadow(0 0 .3vmin #00EEAA);
 }
